@@ -5,7 +5,6 @@ Date: 09/25/2017
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.decomposition import PCA
-from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 
 wine_df = pd.read_csv(
     filepath_or_buffer='http://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data', 
