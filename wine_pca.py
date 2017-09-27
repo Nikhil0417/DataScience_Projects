@@ -30,3 +30,4 @@ for color, i, target_name in zip(colors, target_arr, target_arr):
                 label=target_name)
 plt.legend(loc='best', shadow=False, scatterpoints=1)
 plt.title('PCA of wine dataset')
+plt.show()
