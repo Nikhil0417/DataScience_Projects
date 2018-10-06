@@ -1,5 +1,7 @@
 # DataScience_Projects
 This repository contains the implementation of various machine learning algorithms on different datasets
+## Algorithms
+1. LDA & QDA: Implemented LDA and QDA on a custom 2-class dataset
 ## EEG Eye-state Prediction
 ## Online News Popularity Prediction
 ## K-Nearest Neighbors Algorithm
