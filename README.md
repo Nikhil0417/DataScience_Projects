@@ -2,6 +2,8 @@
 This repository contains the implementation of various machine learning algorithms on different datasets
 ## Algorithms
 1. LDA & QDA: Implemented LDA and QDA on a custom 2-class dataset
+2. Logistic Regression: Applied logistic regression on a slightly modified version of the MNIST dataset. The logistic regression algorithm was implemented without the use of external libraries.
+3. Page-ranking algorithm: Implemented a function in python to compute an engivector for the given parameter matrix G. The function was implemented using the power method to iteratively compute such an engivector, and to halt the computation when the error is less than a certain prechosen threshold (eg., 1e-5). 
 ## EEG Eye-state Prediction
 ## Online News Popularity Prediction
 ## K-Nearest Neighbors Algorithm
