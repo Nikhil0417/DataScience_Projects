@@ -1,0 +1,3 @@
+#This project aims at finding the molecules that attach best with a given protein.
+
+##A detailed description will be provided soon...
